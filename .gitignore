@@ -12,7 +12,8 @@
 **/.idea
 **/.project
 **/.classpath
-**/postgres
+transaction-ms/postgres
+antifraud-ms/postgres
 
 # Logs
 logs

@@ -12,6 +12,7 @@
 **/.idea
 **/.project
 **/.classpath
+**/postgres
 
 # Logs
 logs
